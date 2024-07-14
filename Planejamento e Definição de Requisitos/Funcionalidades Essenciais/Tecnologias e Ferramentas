@@ -1,0 +1,6 @@
+Front-end: React Native (para desenvolvimento mobile cross-platform)
+Back-end: Node.js com Express.js
+Banco de Dados: MongoDB ou Firebase Firestore
+Armazenamento de Vídeos: Firebase Storage ou AWS S3
+Autenticação: Firebase Authentication ou Auth0
+Serviços de Notificação: Firebase Cloud Messaging
