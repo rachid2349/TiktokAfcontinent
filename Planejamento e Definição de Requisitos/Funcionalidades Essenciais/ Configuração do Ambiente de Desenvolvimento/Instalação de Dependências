@@ -1,0 +1,7 @@
+npx react-native init TikTokClone
+cd TikTokClone
+npm install @react-navigation/native @react-navigation/stack react-native-video react-native-camera firebase
+npm install --save react-native-firebase/app
+npm install --save react-native-firebase/auth
+npm install --save react-native-firebase/firestore
+npm install --save react-native-firebase/storage
